@@ -1,0 +1,891 @@
+@import url('https://fonts.googleapis.com/css2?family=Namdhinggo:wght@400;500;600;700;800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    font-family: "Namdhinggo", serif;
+}
+
+.fondo-1{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+}
+
+.logomundi26{
+    width: 100%;
+}
+
+.logomundi26 img{
+height: 170px;
+display: flex;
+justify-content: flex-start;
+}
+
+.navbar{
+    display: flex;
+color: white;
+list-style: none;
+font-size: 30px;
+justify-content: center;
+align-content: center;
+align-items: center;
+gap: 4.375rem;
+}
+
+.menu a{
+color: white;
+text-decoration: none;
+}
+
+.fondo-2{
+    background-color: #E8C872;
+    width: 100%;
+    height: 300px;
+}
+
+.titulo{
+    display: flex;
+    background-color: #E8C872;
+    height: 300px;
+    color: black;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    gap: 2.5rem ;
+}
+
+.titulo a{
+    color: black;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+.mundi26{
+    background-color: #E8C872;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.875rem;
+    list-style: none;
+}
+
+.fotomundi26 img{
+    height: 200px;
+}
+
+.txt-cdm26{
+    text-decoration: none;
+    color: black;
+}
+
+.anfi26{
+    display:flex;
+    flex-direction: column;
+    
+}
+
+.anfi26 img{
+    height: 50px;
+}
+
+.fondo-3{
+    background-color: #A94438;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.qatar22{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    gap: 1.4375rem;
+}
+
+.qatar22 a{
+    text-decoration: none;
+    color: black;
+}
+
+.logomundi22 img{
+    background-color: #A94438;
+    height: 200px ;
+}
+
+.primerbalon{
+    background-color: #A94438;
+    height: 150px;
+}
+
+.bnd-qatar{
+    width: 15%;
+    height: 50px;
+}
+
+.rusi18{
+    background-color: #A94438;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.centenario{
+    height: 150px;
+}
+
+.logorusi img{
+    height: 200px;
+    background-color: #A94438;
+}
+
+.ave{
+    display: flex;
+    align-items: center;
+    gap: .9375rem;
+}
+
+.rusia2018{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    list-style: none;
+    gap: 1.4375rem;
+}
+
+.rusia2018 a{
+    color: black;
+    text-decoration: none;
+}
+
+.fondo-4{
+    background-color: #E1F0DA;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-around ;
+    align-content: center;
+}
+
+.logobr14 img{
+    background-color: #E1F0DA;
+    height: 200px ;
+}
+
+.br14{
+    width: 50%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    gap: 1.4375rem;
+    justify-content: center;
+}
+
+.br14 a{
+    background-color: #E1F0DA;
+    text-decoration: none;
+    color: black;
+}
+
+.urucam {
+    text-align: center;
+    justify-items: center;
+    gap: 1.875rem;
+}
+
+.finales{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    gap: 1.25rem;
+}
+
+.todas{
+color: black;
+text-decoration: none;
+}
+
+.lgmun26 img{
+    height: 70px;
+}
+
+.footer-1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.sitiono{
+    display: flex;
+    height: 20px;
+    font-size: 20px;
+    align-self: flex-end;
+}
+
+.redes{
+    display: flex;
+    flex-direction: row;
+    gap: .9375rem;
+}
+
+.redes img{
+    height: 30px;
+}
+
+.fondo-5{
+    width: 100%;
+    height: 200px;
+    background-color: #FFFC9B;
+}
+
+.fondo-5 a{
+    text-decoration: none;
+    color: black;
+}
+
+.main-2{
+    width: 100%;
+    height: 5000px;
+}
+
+.datos26{
+    width: 100%;
+    height: 1100px;
+    background-color: black;
+    color: white;
+}
+
+
+.titulo-2{
+    height: 100px;
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.anfitriones26{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    gap: 30px;
+}
+
+.meuc{
+    height: 200px;
+}
+
+.tmanfi26{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+    font-size: 30px;
+}
+
+.mex{
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .9375rem;
+}
+
+.bndmex{
+    height: 50px;
+}
+
+.eeuu{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .9375rem;
+}
+
+.bndeeuu{
+    height: 50px;
+}
+
+.can{
+    display: flex;
+    height: 200px;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+    gap: .9375rem ;
+}
+
+.bndcan{
+    height: 50px;
+}
+
+.pm48{
+    background-color: black;
+    justify-content: flex-end;
+    align-items: flex-end;
+    text-align: center;
+    color: #E8C872;
+    margin-top: 200px;
+}
+
+.estadios-can{
+height: 550px;
+background-color: #9B4444;
+}
+
+.est-confirm{
+    display: flex;
+    background-color: #9B4444;
+    height: 90px;
+    justify-content: center;
+    text-align: center;
+    align-items: end;
+}
+
+.canada{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+
+.canchas-can{
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+}
+
+.caneeuu{
+    display: flex;
+    background-color: #211C6A;
+color: white;
+height: 100px;
+justify-content: center;
+align-items: center;
+font-size: 40px;
+}
+
+.canchaseeuu{
+    background-color: #211C6A;
+    height: 2700px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: (6,1fr);
+grid-template-areas: 
+"cancha-1 cancha-2"
+"cancha-3 cancha-4"
+"cancha-5 cancha-6"
+"cancha-7 cancha-8"
+"cancha-9 cancha-10"
+"cancha-11 ."
+;
+}
+
+.canchaseeuu p{
+    color: white;
+    font-size: 20px;
+}
+
+.cancha-1{
+    grid-area: cancha-1;
+    justify-self: center;
+    text-align: center;
+}
+
+.cancha-2{
+    grid-area: cancha-2;
+    justify-self: center;
+    text-align: center;
+}
+
+.cancha-3{
+    grid-area: cancha-3;
+    justify-self: center;
+    text-align: center;
+}
+
+.cancha-4{
+    grid-area: cancha-4;
+    justify-self: center;
+    text-align: center;
+}
+
+.cancha-5{
+    grid-area: cancha-5;
+    justify-self: center;
+    text-align: center;
+}
+
+.cancha-6{
+    grid-area: cancha-6;
+    justify-self: center;
+    text-align: center;
+}
+
+.cancha-7{
+    grid-area: cancha-7;
+    justify-self: center;
+    text-align: center;
+}
+
+.cancha-8{
+    grid-area: cancha-8;
+    justify-self: center;
+    text-align: center;
+}
+
+.cancha-9{
+    grid-area: cancha-9;
+    justify-self: center;
+    text-align: center;
+}
+
+.cancha-10{
+    grid-area: cancha-10;
+    justify-self: center;
+    text-align: center;
+}
+
+.cancha-11{
+    grid-area: cancha-11;
+    justify-self: center;
+    text-align: center;
+}
+
+.canmx{
+    display: flex;
+    background-color: #436850;
+color: white;
+height: 100px;
+justify-content: center;
+align-items: center;
+font-size: 50px;
+}
+
+.estadiosmexico{
+    background-color: #436850;
+    color: white;
+    width: 100%;
+    height: 400px;
+    font-size: 30px;
+}
+
+.canchasmx-1{
+    display: flex;
+flex-direction: row;
+justify-content: space-around;
+text-align: center;
+}
+
+.canchasmx-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+}
+
+.data26{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    height: 300px;
+}
+
+.footer-2{
+display: flex;
+justify-content: space-around;
+height: 300px;
+align-items: end;
+}
+
+.header-hist{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color: white;
+}
+
+.titulo-3{
+    display: flex;
+    width: 100%;
+    height: 800px;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    flex-direction: column;
+    gap: 1.875rem;
+}
+
+.paisescmp{
+    width: 100%;
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: center;
+    text-align: center;
+    font-size: 20px;
+}
+
+.paiscmp-1{
+display: flex;
+width: 100%;
+height: 40px;
+justify-content: space-around;
+align-content: center;
+text-align: center;
+}
+
+.fondo-6{
+    width: 100%;
+    height: 300px;
+    background-color: #7D0A0A;
+}
+
+.main-3{
+    width: 100%;
+    height: 14000px;
+    background-color: #9B4444;
+    color: white;
+}
+
+.titulo-4{
+    height: 300px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    font-size: 40px;
+}
+
+.anfiqatar{
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    align-items: center;
+}
+
+.tmqatar{
+    height: 300px;
+}
+
+.bndqatar{
+    height: 100px;
+}
+
+.myb22{
+    display: flex;
+    height: 600px;
+    justify-content: space-around;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.imgq22{
+    height: 200px;
+}
+
+.fdg22{
+    display: flex;
+    width: 100%;
+    height: 900px;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    font-size: 30px;
+    gap: 2.5rem;
+}
+
+.fdg22 img{
+    width: 80%;
+    display: flex;
+    align-self: center;
+    height: 500px;
+}
+.gruposqatar22{
+    width: 100%;
+    height: 850px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+}
+
+.grupo22{
+    height: 500px;
+}
+
+.pruebagap{
+    gap: 1.875rem;
+}
+
+.elim22{
+    width: 100%;
+    height: 4000px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 1.875rem;
+    font-size: 40px;
+}
+
+.fase22{
+    height: 1000px;
+}
+
+.final22{
+    width: 100%;
+    height: 1500px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 3.125rem;
+}
+
+.argcmp{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 1900px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 70px;
+}
+
+.bndcampeon{
+    height: 200px;
+}
+
+.fondo-7{
+    background-color: #9B4444;
+}
+
+.footer-6{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+    align-items: end;
+    }
+
+    .fondo-8{
+        width: 100%;
+        height: 300px;
+        background-color: #D24545;
+    }
+
+.main-4{
+    width: 100%;
+    height: 14000px;
+    background-color: #0B60B0;
+    color: white;
+}
+
+.fondo-9{
+    background-color: #0B60B0;
+}
+
+.fondo-10{
+    width: 100%;
+    height: 300px;
+    background-color: #FFFC9B;
+}
+
+.menu-1 a{
+    color: black;
+    text-decoration: none;
+    }
+
+    .main-5{
+        width: 100%;
+        height: 14000px;
+        background-color: #65B741;
+        color: black;
+    }
+
+    .fondo-11{
+background-color: #65B741;
+    }
+
+    .footer-7{
+        color: black;
+        display: flex;
+        justify-content: space-around;
+        height: 300px;
+        align-items: end;
+        }
+
+        .navbar-2{
+        display: flex;
+        background-color: black;
+        color: white;
+        list-style: none;
+        font-size: 30px;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        gap: 4.375rem;
+        }
+
+        .footer-3{
+        height: 300px ;
+            display: flex;
+            justify-content: space-around;
+            align-items: end;
+        }
+
+        @media (max-width:1120px){
+            .header-hist{
+                height: 450px;
+                flex-direction: column;
+            }
+            .navbar-2{
+                flex-direction: column;
+                background-color: black;
+            }
+            .footer-1{
+                height: 300px;
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+            .footer-1 .sitiono{
+                align-self: center;
+                
+    }
+}
+
+@media(max-width:400px){
+    .titulo-3 img{
+        height: 300px;
+    }
+}
+
+@media (max-width:1120px){
+    .fondo-5{
+        height: 550px;
+        flex-direction: column;
+    }
+    .navbar{
+        flex-direction: column;
+        background-color: #FFFC9B;
+    }
+}
+
+@media (max-width:600px){
+    .datos26{
+        height: 1700px;
+    }
+    .mex{
+        height: 300px;
+        display: flex;
+        flex-direction: column;
+    }
+    .eeuu{
+        height: 600px;
+        display: flex;
+        flex-direction: column;
+    }
+    .can{
+        height: 200px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .pm48{
+        height: 600px;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+    }
+
+    .estadios-can{
+        height:800px;
+    }
+
+    .canchas-can{
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .canchaseeuu{
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+        align-items: center;
+        text-align: center;
+        gap: 2.5rem;
+    }
+
+    .estadiosmexico{
+        height: 600px;
+    }
+    .canchasmx-1{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .data26{
+        font-size: 20px;
+    }
+
+    .footer-3{
+        height: 2600px;
+        align-items: center;
+        justify-items: center;
+        text-align: center;
+    }
+    .footer-3 .sitiono{
+        align-self: center;
+        
+}
+    
+}
+
+@media (max-width:380px){
+    .meuc{
+        height: 150px;
+    }
+}
